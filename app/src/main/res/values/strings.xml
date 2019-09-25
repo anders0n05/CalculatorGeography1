@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculatorGeography</string>
+    <string name="selecione_a_forma">Selecione a Forma</string>
+    <string name="area">Area :</string>
+</resources>
